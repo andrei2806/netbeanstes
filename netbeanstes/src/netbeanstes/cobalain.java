@@ -10,5 +10,5 @@ package netbeanstes;
  * @author wandoko
  */
 public class cobalain {
-    String a = "asdasd";
+    String a = "dor";
 }
